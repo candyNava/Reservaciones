@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Reservaciones</string>
+    <string name="jbLuneta">Luneta</string>
+    <string name="jbPalco">Palcos </string>
+    <string name="jbBalconPrimer">Primer Balcón </string>
+    <string name="jbBalconSegundo">Segundo Balcón </string>
+
+    <string name="rbLunetaAzul">Luneta Azul $650 </string>
+    <string name="rbLunetaRojo">Luneta Roja $750</string>
+    <string name="rbLunetaVerde">Luneta Verde $550</string>
+    <string name="rbLunetaNaranja">Luneta Naranja $450</string>
+    <string name="rbLunetaVioleta">Luneta Violeta $350</string>
+
+    <string name="rbBalcoNVerde">Verde $300 </string>
+    <string name="rbBalcoNNaranja">Naranja $280 </string>
+    <string name="rbBalcoNVioleta">Violeta $250</string>
+    <string name="seccionLuneta">Niveles de Luneta </string>
+    <string name="seccionBalconUno">Niveles en el primer Balcón </string>
+    <string name="seccionBalconDos">Niveles en el segundo Balcón </string>
+    <string name="seccionBalconTres">Niveles en los Palcos </string>
+
+    <string name="rbPalcos1">Palcos primero $280 </string>
+    <string name="rbPalcos2">Palcos Segundos $250</string>
+    <string name="rbPalcos3">Palcos Terceros $150</string>
+
+    <string name="jlPersonas">Personas</string>
+    <string name="jbCalcular">Calcular Total</string>
+    <string name="jlTotalAPagar">Total a pagar</string>
+</resources>
